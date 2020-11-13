@@ -1,0 +1,42 @@
+
+
+label {
+    width: 12em;
+    display: block;
+    clear: both;
+    margin-bottom: 2px;
+}
+
+
+body {
+    font-family: "Times New Roman", Courier, monospace;
+    background-color: lightsteelblue;
+    padding: 20px;
+    margin: 20px;
+}
+
+.tablish {
+    display: table;
+}
+
+.cellish {
+    display: table-cell;
+    height: 65px;
+    vertical-align: top;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    border-top: thin gray dotted;
+    margin-top: 15px;
+}
+
+
+#calcMyBmi{
+    margin-top: 15px;
+    background-color: burlywood;
+}
+
+#bmiOutput {
+    font-family: "Arial Black";
+    text-align: match-parent;
+}
+
